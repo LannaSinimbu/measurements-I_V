@@ -116,6 +116,4 @@ onde `AREA_CM2` é a área do dispositivo, definida no código (valor padrão: *
 
 ---
 
-## Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT). Caso ainda não tenha uma, considere adicionar um arquivo `LICENSE`.
